@@ -1,22 +1,22 @@
 {
-    "name": "monokai-classic-darker",
-    "displayName": "Monokai classic darker",
-    "publisher": "carlossantos74",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "monokai-classic-darker",
-                "uiTheme": "vs-dark",
-                "path": "./themes/monokai-classic-darker.json"
-            }
-        ]
-    }
+  "name": "monokai-classic-darker",
+  "displayName": "Monokai classic darker",
+  "publisher": "carlossantos74",
+  "description": "",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "monokai-classic-darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-classic-darker.json"
+      }
+    ]
+  }
 }
