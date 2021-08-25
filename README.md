@@ -14,5 +14,5 @@ Esquema de cores para a interface do Visual Studio Code. Baseado no monokai clá
 <br>
 ---
 
-<img src="assets/demo.png">
-<img src="assets/demo2.png">
+<img src="https://raw.githubusercontent.com/carlossantos74/monokai-classic-darker/master/assets/demo.png?token=ALZ242ZJBVYPQ4GLG5RRBO3BE2TA2">
+<img src="https://raw.githubusercontent.com/carlossantos74/monokai-classic-darker/master/assets/demo2.png?token=ALZ2422XPRXEARARCORPGHDBE2TDY">
