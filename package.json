@@ -1,0 +1,21 @@
+{
+    "name": "monokai-soda-darker",
+    "displayName": "monokai-soda-darker",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "monokai-soda-darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-soda-darker-color-theme.json"
+            }
+        ]
+    }
+}
