@@ -2,7 +2,8 @@
   "name": "monokai-theme",
   "displayName": "Monokai Theme",
   "publisher": "carlossantos74",
-  "description": "",
+  "icon": "assets/icon.png",
+  "description": "A dark theme for Visual Studio Code",
   "version": "0.0.5",
   "engines": {
     "vscode": "^1.59.0"
