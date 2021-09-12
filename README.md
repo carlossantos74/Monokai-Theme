@@ -2,7 +2,7 @@
 
 A dark theme for [Visual Studio Code](http://code.visualstudio.com)
 
-![Screenshot](https://raw.githubusercontent.com/carlossantos74/monokai-classic-darker/master/assets/demo.png)
+![Screenshot](https://raw.githubusercontent.com/carlossantos74/Monokai-Theme/master/assets/demo.png)
 
 
 <br>
