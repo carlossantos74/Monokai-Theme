@@ -1,5 +1,5 @@
 {
-  "name": "monokai-theme",
+  "name": "monokai-classic-darker",
   "displayName": "Monokai Theme",
   "publisher": "carlossantos74",
   "icon": "assets/icon.png",
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "monokai-theme",
+        "label": "Monokai Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-theme.json"
       }
