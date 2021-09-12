@@ -1,18 +1,24 @@
-# Monokai classic for Visual Studio Code
+# Monokai theme for [Visual Studio Code](http://code.visualstudio.com)
 
-Esquema de cores para a interface do Visual Studio Code. Baseado no monokai clássico.
+A dark theme for [Visual Studio Code](http://code.visualstudio.com)
+
+![Screenshot](https://raw.githubusercontent.com/carlossantos74/monokai-classic-darker/master/assets/demo.png)
+
 
 <br>
 
-### Instalação
-<br>
+## Install
+
 
 ```
 1. Extensions ‣ Search for 'Monokai classic darker' ‣ Install
 2. Command Palette ‣ Prefereces: Color Theme ‣ monokai-classic-darker
 ```
-<br>
+
+### Team
 ---
 
-<img src="https://raw.githubusercontent.com/carlossantos74/monokai-classic-darker/master/assets/demo.png?token=ALZ242ZJBVYPQ4GLG5RRBO3BE2TA2">
-<img src="https://raw.githubusercontent.com/carlossantos74/monokai-classic-darker/master/assets/demo2.png?token=ALZ2422XPRXEARARCORPGHDBE2TDY">
+[![Carlos Santos](https://avatars.githubusercontent.com/u/49524331?v=3&s=75)](https://github.com/carlossantos74) |
+:---: |
+[Carlos Santos](https://github.com/carlossantos74) |
+

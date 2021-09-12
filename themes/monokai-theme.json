@@ -1413,7 +1413,6 @@
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#f4005f",
     "activityBar.border": "#383838",
-    "activityBar.activeBackground": "#1b1b1b",
     "sideBar.background": "#171515",
     "sideBar.foreground": "#cccccc",
     "sideBarSectionHeader.background": "#00000000",

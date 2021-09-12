@@ -1,9 +1,9 @@
 {
-  "name": "monokai-classic-darker",
-  "displayName": "Monokai classic darker",
+  "name": "monokai-theme",
+  "displayName": "Monokai Theme",
   "publisher": "carlossantos74",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.59.0"
   },
@@ -13,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "monokai-classic-darker",
+        "label": "monokai-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokai-classic-darker.json"
+        "path": "./themes/monokai-theme.json"
       }
     ]
   }
